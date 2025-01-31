@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Scenes/Level 1.unity
+    - Assets/Scenes/Level 2.unity
+    - Assets/Scenes/Level 2.unity.meta
+    - Assets/Scenes/TitleScreen.unity
+    - Assets/Standard Assets/2D/Scripts/Camera.meta
+    - Assets/Standard Assets/2D/Scripts/Camera/Camera2DFollow.cs
+    - Assets/Standard Assets/2D/Scripts/Camera/Camera2DFollow.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Camera/CameraSwitch.cs
+    - Assets/Standard Assets/2D/Scripts/Camera/CameraSwitch.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Character.meta
+    - Assets/Standard Assets/2D/Scripts/Character/BoxPickUp.cs
+    - Assets/Standard Assets/2D/Scripts/Character/BoxPickUp.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Character/CameraFollow.cs
+    - Assets/Standard Assets/2D/Scripts/Character/CameraFollow.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Character/CharacterMover.cs
+    - Assets/Standard Assets/2D/Scripts/Character/CharacterMover.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Character/characterAttack.cs
+    - Assets/Standard Assets/2D/Scripts/Character/characterAttack.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Character/playerHealth.cs
+    - Assets/Standard Assets/2D/Scripts/Character/playerHealth.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Enemy.meta
+    - Assets/Standard Assets/2D/Scripts/Enemy/enemyHealth.cs
+    - Assets/Standard Assets/2D/Scripts/Enemy/enemyHealth.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Enemy/enemyWalk.cs
+    - Assets/Standard Assets/2D/Scripts/Enemy/enemyWalk.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Level.meta
+    - Assets/Standard Assets/2D/Scripts/Level/EndFlag.cs
+    - Assets/Standard Assets/2D/Scripts/Level/EndFlag.cs.meta
+    - Assets/Standard Assets/2D/Scripts/Level/LevelReset.cs
+    - Assets/Standard Assets/2D/Scripts/Level/LevelReset.cs.meta
+    - Assets/Standard Assets/2D/Scripts/ParticleSceneControls.cs
+    - Assets/Standard Assets/2D/Scripts/ParticleSceneControls.cs.meta
+    - Assets/Standard Assets/2D/Scripts/PlaceTargetWithMouse.cs
+    - Assets/Standard Assets/2D/Scripts/PlaceTargetWithMouse.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI.meta
+    - Assets/Standard Assets/2D/Scripts/UI/Audio.cs
+    - Assets/Standard Assets/2D/Scripts/UI/Audio.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI/ButtonBehaviour.cs
+    - Assets/Standard Assets/2D/Scripts/UI/ButtonBehaviour.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI/PauseMenuController.cs
+    - Assets/Standard Assets/2D/Scripts/UI/PauseMenuController.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI/SceneSwitcher.cs
+    - Assets/Standard Assets/2D/Scripts/UI/SceneSwitcher.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI/ScoreCounter.cs
+    - Assets/Standard Assets/2D/Scripts/UI/ScoreCounter.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI/SlowMoButton.cs
+    - Assets/Standard Assets/2D/Scripts/UI/SlowMoButton.cs.meta
+    - Assets/Standard Assets/2D/Scripts/UI/Timer.cs
+    - Assets/Standard Assets/2D/Scripts/UI/Timer.cs.meta
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
